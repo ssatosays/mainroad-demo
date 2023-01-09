@@ -10,4 +10,5 @@ $ git submodule update --init --recursive
 $ hugo server -D
 # build
 $ hugo
+$ hugo --minify
 ```
